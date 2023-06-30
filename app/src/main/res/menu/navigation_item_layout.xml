@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Item_Listview"
+        android:icon="@drawable/baseline_list_alt_24"
+        android:title="Listview" />
+    <item
+        android:id="@+id/Item_Gridview"
+        android:icon="@drawable/baseline_grid_view_24"
+        android:title="Gridview" />
+    <item
+        android:id="@+id/Item_Contact"
+        android:icon="@drawable/baseline_contact_page_24"
+        android:title="Contact" />
+    <item
+        android:id="@+id/Item_Setting"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Setting" />
+    <item
+        android:id="@+id/Item_Photos"
+        android:icon="@drawable/baseline_photo_24"
+        android:title="Photos"/>
+
+</menu>
